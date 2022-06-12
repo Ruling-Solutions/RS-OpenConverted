@@ -1,0 +1,6 @@
+﻿[Error]
+001=Error
+002=Required programs not found.
+003=Missing input file.
+004=Input file %1 not found.
+005=Error deleting converted file %1.
