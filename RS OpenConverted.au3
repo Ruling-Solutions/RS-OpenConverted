@@ -21,8 +21,8 @@ Opt('MustDeclareVars', 1)
 
 #include <Array.au3>
 #include <GUIConstantsEx.au3>
-#include '..\Shared\RS.au3'
-#include '..\Shared\RS_INI.au3'
+#include '..\au3_Shared\RS.au3'
+#include '..\au3_Shared\RS_INI.au3'
 
 ; Constants and variables
 Local Const $AppPath = RS_addSlash(@ScriptDir)
